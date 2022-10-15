@@ -1,0 +1,19 @@
+{
+  "name": "cleito",
+  "version": "1.0.0",
+  "description": "bot de zapkk",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustakr/Cleito.git"
+  },
+  "author": "gustakk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gustakr/Cleito/issues"
+  },
+  "homepage": "https://github.com/Gustakr/Cleito#readme"
+}
